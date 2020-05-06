@@ -1,11 +1,10 @@
 import React from 'react';
-import "./Nav.css";
 
 const Nav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark">
       <div className="container">
-        <a className="navbar-brand rounded" href="index.html" id="logo">Jayson Duff</a>
+        <a className="navbar-brand rounded" href="/" id="logo">Jayson Duff</a>
         <button
           className="navbar-toggler"
           type="button"
